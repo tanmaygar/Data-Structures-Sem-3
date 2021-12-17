@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1631875962 source:c:\users\sumit\desktop\data structures\assignment 1\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"linked_list.h"
+	"stack_node.h"
+	"queue_header.h"
+
+1631876122 c:\users\sumit\desktop\data structures\assignment 1\assignment1\linked_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1631876209 c:\users\sumit\desktop\data structures\assignment 1\assignment1\stack_node.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"linked_list.h"
+
+1631876209 c:\users\sumit\desktop\data structures\assignment 1\assignment1\queue_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"linked_list.h"
+	"stack_node.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1633694503 source:c:\users\sumit\desktop\data structures\assignment 2\assignment 2 changed version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"bst.h"
+
+1633694503 c:\users\sumit\desktop\data structures\assignment 2\assignment 2 changed version\bst.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

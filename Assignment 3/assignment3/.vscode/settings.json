@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stack_node.h": "c",
+        "string.h": "c"
+    }
+}
